@@ -35,7 +35,7 @@ Master technical interviews through intelligent coaching — not answer-copying.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/aaroh.git
+git clone https://github.com/nsr-19/aaroh.git
 cd aaroh
 
 # Rename SKILL.md to CLAUDE.md
