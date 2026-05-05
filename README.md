@@ -9,22 +9,22 @@ Master technical interviews through intelligent coaching — not answer-copying.
 ## What Makes This Different
 
 | Feature | Aaroh | Algo Aaroh | Noam's Coach |
-|---------|:---:|:---:|:---:|
-| DSA Practice with Hints | ✅ (3-tier) | ✅ (5-level) | ❌ |
+|---------|:---:|
+| DSA Practice with Hints | ✅ (3-tier) | 
 | System Design Coaching | ✅ | ❌ | ❌ |
-| DSA Mock Interviews | ✅ (with scoring) | ✅ (basic) | ❌ |
-| System Design Mock Interviews | ✅ | ❌ | ❌ |
-| Code Review | ✅ (interview-focused) | ✅ | ❌ |
-| Pattern Mapper | ✅ (15 core patterns) | ✅ | ❌ |
-| 5-Dimension Scoring Rubric | ✅ | ❌ | ✅ |
-| Self-Calibration (you vs coach) | ✅ | ❌ | ✅ |
-| Pattern Cards + SRS Review | ✅ | ❌ | ❌ |
-| Learner Profile Personalization | ✅ | ❌ | ✅ |
-| Difficulty Calibration by Level | ✅ | ❌ | ❌ |
-| "Think Out Loud" Active Coaching | ✅ | ❌ | ❌ |
-| Smart "What Should I Practice?" | ✅ | ❌ | ❌ |
-| `help` Orientation Command | ✅ | ❌ | ✅ |
-| Works on Claude.ai + Claude Code | ✅ | ✅ | Claude Code only |
+| DSA Mock Interviews | ✅ (with scoring) |
+| System Design Mock Interviews | ✅ | 
+| Code Review | ✅ (interview-focused) |
+| Pattern Mapper | ✅ (15 core patterns) |
+| 5-Dimension Scoring Rubric | ✅ | 
+| Self-Calibration (you vs coach) | ✅ | 
+| Pattern Cards + SRS Review | ✅ | 
+| Learner Profile Personalization | ✅ | 
+| Difficulty Calibration by Level | ✅ | 
+| "Think Out Loud" Active Coaching | ✅ | 
+| Smart "What Should I Practice?" | ✅ | 
+| `help` Orientation Command | ✅ | 
+| Works on Claude.ai + Claude Code | ✅ |
 
 ---
 
