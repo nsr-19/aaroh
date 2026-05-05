@@ -1,0 +1,16 @@
+# Notes (personal pattern cards and design templates)
+notes/
+
+# Coaching state (personal progress tracking)
+coaching_state.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
