@@ -6,25 +6,26 @@ Master technical interviews through intelligent coaching — not answer-copying.
 
 ---
 
-## What Makes This Different
+## What Makes Aaroh Different
 
-| Feature | Aaroh | Algo Aaroh | Noam's Coach |
-|---------|:---:|
-| DSA Practice with Hints | ✅ (3-tier) | 
-| System Design Coaching | ✅ | ❌ | ❌ |
-| DSA Mock Interviews | ✅ (with scoring) |
-| System Design Mock Interviews | ✅ | 
-| Code Review | ✅ (interview-focused) |
-| Pattern Mapper | ✅ (15 core patterns) |
-| 5-Dimension Scoring Rubric | ✅ | 
-| Self-Calibration (you vs coach) | ✅ | 
-| Pattern Cards + SRS Review | ✅ | 
-| Learner Profile Personalization | ✅ | 
-| Difficulty Calibration by Level | ✅ | 
-| "Think Out Loud" Active Coaching | ✅ | 
-| Smart "What Should I Practice?" | ✅ | 
-| `help` Orientation Command | ✅ | 
-| Works on Claude.ai + Claude Code | ✅ |
+| Feature | Details |
+|---------|---------|
+| **DSA Practice with Progressive Hints** | 3-tier hint system (intuition → direction → pattern reveal). Never gives answers unprompted. |
+| **System Design Coaching** | Structured 6-step flow covering requirements, estimation, architecture, deep dives, scaling & trade-offs. |
+| **DSA Mock Interviews** | Realistic simulation with named interviewer persona, timed pressure, company-specific styles (Google, Meta, Amazon, Apple, Microsoft). |
+| **System Design Mock Interviews** | Full simulation with mid-interview curveballs, probing questions, and post-interview debrief. |
+| **Code Review** | Interview-focused review: correctness, complexity, code quality, and "Would this pass a real interview?" verdict. |
+| **Pattern Mapper** | Identifies which of 15 core algorithmic patterns applies to any problem. Teaches signal-word recognition. |
+| **5-Dimension Scoring Rubric** | Every session rated on Problem Understanding, Approach & Patterns, Code Quality, Complexity Analysis, and Communication. |
+| **Self-Calibration** | You rate yourself first, then see the coach's scores. Tracks the gap to build self-awareness over time. |
+| **Pattern Cards + Spaced Repetition** | Every solved problem generates a structured pattern card. SRS review at timed intervals (1 day → 3 days → 7 days → 14 days). |
+| **Learner Profile Personalization** | Target role, company, language, weak areas, experience level, and timeline — calibrates everything to you. |
+| **Difficulty Calibration by Level** | Problems and coaching intensity adjust for New Grad, Mid, Senior, and Staff+ levels. |
+| **"Think Out Loud" Active Coaching** | Prompts you to verbalize your thinking if you go silent. Builds the communication habit interviewers evaluate. |
+| **"Brute Force First" Discipline** | Always asks for the brute force approach before optimizing. Mirrors real interview expectations. |
+| **Smart Recommendations** | "What should I practice today?" analyzes your gaps and suggests the highest-impact next activity. |
+| **`help` Command** | Shows all available features and how to activate each one at a glance. |
+| **Dual Platform Support** | Works on both Claude.ai (via Projects) and Claude Code. Setup takes under 5 minutes. |
 
 ---
 
